@@ -565,7 +565,7 @@ echo "3. Deploy docker container"
 echo "4. Rollback to another existing installation"
 echo "5. Exit"
 echo
-read -p ": " option
+read -p ": " option 1
 
 		case $option in
 		1)
